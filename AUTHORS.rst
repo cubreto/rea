@@ -10,4 +10,6 @@ Development Lead
 Contributors
 ------------
 
+Jan <mackowiak4990@gmail.com>
+
 None yet. Why not be the first?
